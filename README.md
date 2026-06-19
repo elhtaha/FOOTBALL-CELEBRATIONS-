@@ -44,12 +44,12 @@ football-celebration/
 
 | Gesture | Player | Description |
 |---------|--------|-------------|
-| 🏆 Arms crossed on chest | **Mbappé** | Cross both arms over your chest |
-| 🙏 Point to the sky | **Messi** | Raise both hands and point upwards |
-| 💪 Arms spread wide & low | **Ronaldo** | Spread arms wide at hip level (SIUUU!) |
-| 📸 Camera frame | **Son** | Make a camera frame with both hands near face |
-| 🤲 Open palms | **Diaz** | Hold open palms outward at shoulder height |
-| 👐 Hands near ears | **Neymar** | Raise open hands near your ears |
+|  Arms crossed on chest | **Mbappé** | Cross both arms over your chest |
+|  Point to the sky | **Messi** | Raise both hands and point upwards |
+|  Arms spread wide & low | **Ronaldo** | Spread arms wide at hip level (SIUUU!) |
+|  Camera frame | **Son** | Make a camera frame with both hands near face |
+|  Open palms | **Diaz** | Hold open palms outward at shoulder height |
+|  Hands near ears | **Neymar** | Raise open hands near your ears |
 
 ## Requirements
 
@@ -81,11 +81,11 @@ python main.py
 
 ## GUI Features
 
-- **🏆 World Cup Theme:** Designed with a premium burgundy and gold styling, metallic accents, and rounded glassmorphism cards.
-- **🎥 Dynamic Camera Selector:** Switch between webcams or enter custom IP camera URLs (for DroidCam) directly in the UI!
-- **⚡ Quest Progress Tracker:** Challenge yourself to unlock all 6 player celebrations! A golden progress bar and checklist update dynamically when gestures are recognized.
-- **📈 Real-Time Metrics:** Live tracking displays showing current frame rate (FPS), detected pose landmarks, hand tracking counts, and body visibility status.
-- **📸 Snapshot Flash Effect:** Take screenshots with a glowing flash visual effect.
+- ** World Cup Theme:** Designed with a premium burgundy and gold styling, metallic accents, and rounded glassmorphism cards.
+- ** Dynamic Camera Selector:** Switch between webcams or enter custom IP camera URLs (for DroidCam) directly in the UI!
+- ** Quest Progress Tracker:** Challenge yourself to unlock all 6 player celebrations! A golden progress bar and checklist update dynamically when gestures are recognized.
+- ** Real-Time Metrics:** Live tracking displays showing current frame rate (FPS), detected pose landmarks, hand tracking counts, and body visibility status.
+- ** Snapshot Flash Effect:** Take screenshots with a glowing flash visual effect.
 
 ## Camera Options
 
